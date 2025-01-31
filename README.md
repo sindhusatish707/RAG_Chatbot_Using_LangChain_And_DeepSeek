@@ -8,10 +8,12 @@ When the user posts a question on the uploaded PDF, the model analyses the PDF a
 
 To run:
 - Pull the DeepSeek R1 model using Ollama
-    Reference - https://ollama.com/library/deepseek-r1
+    [Reference](https://ollama.com/library/deepseek-r1)
 
 - Install all the dependencies from the requirements.txt file
     pip install -r requirements.txt
 
 - Run the python file
     streamlit run rag_chatbot.py
+
+Reference - [Nariman Codes](https://www.youtube.com/watch?v=M6vZ6b75p9k&t=1062s)
